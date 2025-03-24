@@ -1,0 +1,11 @@
+name: nisp_env
+
+channels:
+  - conda-forge
+  - pytorch
+  - defaults
+
+dependencies:
+  - pytorch-cuda
+  - pytorch
+  - torchvision
